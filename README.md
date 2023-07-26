@@ -1,11 +1,8 @@
 ![logo](https://github.com/MrOoPpSs740/MrOoPpSs740/blob/main/1649161721407.jpg?raw=true.jpg)
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" widht="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrooppss740&label=Profile%20views&color=0e75b6&style=flat" alt="mrooppss740" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrooppss740" alt="mrooppss740" /></a> </p>
 
 - 🌱 I’m currently learning **React js , Node Js , Express Js, Mongodb**
 
