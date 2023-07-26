@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.horizont.com.hr%2Fposao-1-front-end-developer&psig=AOvVaw11vspMdUopldL8V3U7u7ez&ust=1690475699981000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjIguXmrIADFQAAAAAdAAAAABAJ)
+![logo](https://github.com/MrOoPpSs740/MrOoPpSs740/blob/main/1649161721407.jpg?raw=true.jpg)
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" widht="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
